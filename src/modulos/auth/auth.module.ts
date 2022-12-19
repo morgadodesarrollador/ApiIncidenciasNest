@@ -32,7 +32,7 @@ import { ConfigModule, ConfigService } from '@nestjs/config';
     // })
   ],
 //  exports: [ TypeOrmModule, AuthService, JwtStrategy, PassportModule, JwtModule ]
-  exports: [ TypeOrmModule ]
+  exports: [ TypeOrmModule, AuthService ]
 
 })
 export class AuthModule {}
