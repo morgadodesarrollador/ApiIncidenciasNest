@@ -3,7 +3,8 @@
         "idea": "jmb3476",
         "nombre": "Jose Antonio Morgado",
         "email": "morgado@gmail.com",
-        "password": "1234"
+        "password": "1234",
+        "rol": "coordinador Tic"
     },
     {
         "idea": "gin1234",
@@ -17,7 +18,7 @@
         "nombre": "Pilar del Campo",
         "email": "pilar@gmail.com",
         "password": "1234",
-        "rol": "profesor"
+        "rol": "profesor"  
     },
     {
         "idea": "ang2617",
@@ -39,6 +40,13 @@
         "email": "moises@gmail.com",
         "password": "1234",
         "rol": "coordinador Tic"
+    },
+    {
+        "idea": "jav3678",
+        "nombre": "Javier Sanchez",
+        "email": "javier@gmail.com",
+        "password": "1234",
+        "rol": "profesor"
     }
 
 
